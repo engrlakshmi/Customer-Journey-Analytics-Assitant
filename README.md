@@ -20,15 +20,20 @@ Use LLMs to summarize, explain, and extract business value from your data.
 ✨ Key Features
 Feature	What It Does
 🛤️ Journey Generation	Create realistic customer journey sequences for analysis and simulation.
+
 🎯 Event Modeling	Train and apply predictive models to anticipate customer actions.
+
 🤖 LLM Integration	Leverage large language models to generate natural language insights.
+
 🔄 Journey Mixing	Combine, remix, and modify journey data for richer scenarios.
+
 🗂️ File Structure
+
 Curious where to start? Here’s what each main file does:
 
 File Name	Purpose
-app.py	Main application entry point.
-apply_event_model 1.py	Apply trained event prediction models to new data.
-journey_mixer.py	Combine and modify customer journey sequences.
-llm_generator.py	Generate insights using large language models.
-train_event_model 1.py	Train models to predict customer events.
+1. app.py	Main application entry point.
+2. apply_event_model 1.py	Apply trained event prediction models to new data.
+3. journey_mixer.py	Combine and modify customer journey sequences.
+4. llm_generator.py	Generate insights using large language models.
+5. train_event_model 1.py	Train models to predict customer events.
