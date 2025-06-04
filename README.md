@@ -1,6 +1,8 @@
-# Customer-Journey-Analytics-Assitant
+
 🚀 Customer Journey Analytics Assistant
-Welcome to the Customer Journey Analytics Assistant – your all-in-one Python toolkit for modeling, analyzing, and visualizing customer journeys! This toolkit helps you generate journeys, predict events, and extract insights from customer data, with the power of large language models (LLMs).
+
+Welcome to the Customer Journey Analytics Assistant – your all-in-one Python toolkit for modeling, analyzing, and visualizing customer journeys! 
+This toolkit helps you generate journeys, predict events, and extract insights from customer data, with the power of large language models (LLMs).
 
 👀 What Can You Do?
 Explore the possibilities:
