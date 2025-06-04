@@ -5,12 +5,12 @@ import json
 
 # Constants
 TOKEN_FILE = "hf_token.json"
-API_URL = "https://dev-xponentai.cx-catalyst-solutions.com/complete"
-TOKEN_REFRESH_URL = "https://dev-xponentai.cx-catalyst-solutions.com/token-exchange"
+API_URL = "xxxx"
+TOKEN_REFRESH_URL = "xxx"
 
 # Auth headers for token refresh GET request
 TOKEN_REFRESH_HEADERS = {
-    "x-api-key": "4olPDn8Uuw7x7P8Qw4gLU6eJiqJo1xYo2lgNqqn2" 
+    "x-api-key": "xx" 
 }
 
 def load_token():
